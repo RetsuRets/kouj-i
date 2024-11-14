@@ -1,2 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("kouji kouji");
+
+Console.WriteLine("retu retu");
